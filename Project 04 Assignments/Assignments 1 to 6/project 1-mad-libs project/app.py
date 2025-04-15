@@ -1,0 +1,15 @@
+print("------------Welcome to Mad Libs Game In Python-----------")
+
+farmer = input("Enter a farmer's name: ")
+animal = input("Enter any pet animal: ")
+animal2 = input("Enter a rival animal: ") 
+place = input("Enter a village name: ")
+
+print(f"\n Here is your generated story:")
+print(f"Once upon a time, there was a farmer named {farmer} who lived in a village called {place}.")
+print(f"One day, {farmer} found a {animal} in the forest. They became best friends and went on many adventures together.")
+print(f"However, there was a {animal2} who was jealous of their friendship and wanted to cause trouble.")
+print(f"{animal2} tried to trick {farmer} and the {animal}, but they were too clever for him.")
+print(f"With their quick thinking and teamwork, they outsmarted the {animal2} and saved the day.")
+print(f"From that day on, {farmer}, the {animal}, and the villagers worked together to keep their village safe from any trouble.")
+print(f"Everyone in the village loved the {animal} and they all lived happily ever after............")
